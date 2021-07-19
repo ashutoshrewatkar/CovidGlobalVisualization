@@ -6,3 +6,5 @@ Portfolio Projects
 ## Tools Used
 * SQL Server Management Studio						15.0.18384.0
 * Microsoft Excel
+
+![Dashboard Image](Dashboard.png)
